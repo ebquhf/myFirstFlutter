@@ -1,6 +1,7 @@
 # teszt_app
 
 A new Flutter project.
+
 I follow the tutorials below to learn the basics of flutter.
 
 ## Getting Started
